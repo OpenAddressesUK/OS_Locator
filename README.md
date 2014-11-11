@@ -11,7 +11,7 @@ Republished in an easily-downloadable form under the above terms. For original s
 ## Table structure
 
 | Column | Field name | Format | Example | Description |
-|-|-|-|-|-|
+|--------|------------|--------|---------|-------------|
 | 1 | Name | A* | ALRESFORD ROAD | Feature name |
 | 2 | Classification | A* | B3404 | Road number classification |
 | 3 | Centx | I6 | 449590 | X co-ord for centre point of road object |
@@ -27,4 +27,3 @@ Republished in an easily-downloadable form under the above terms. For original s
 | 13 | Tile_10k | A6 | SU42NE | 1:10000 tile reference for the centre point of the object |
 | 14 | Tile_25k | A4 | SU42 | 1:25000 tile reference for the centre point of the object |
 | 15 | Source | A* | Roads | Source of information |
-
